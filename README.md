@@ -22,7 +22,7 @@ Tinkercad provides a simulation environment where this circuit can be virtually 
 
 <img width="699" height="368" alt="image" src="https://github.com/user-attachments/assets/07412a82-ab37-472a-8968-ea6d8697f4a2" />
 
-## Procedure: //Modify the procedure based on your circuit
+## Procedure: 
 
 Step 1: Set Up the Tinkercad Environment
 1.	Log in to Tinkercad: Open Tinkercad in your web browser and log into your account.
